@@ -9,3 +9,9 @@
 
 ## My CV
 https://semyon.tech/CV.pdf
+
+## Some statistics 📈
+
+[![3xlerman's github stats](https://github-readme-stats.vercel.app/api?username=semyon-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semyon-dev)](https://github.com/anuraghazra/github-readme-stats)
