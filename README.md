@@ -8,7 +8,7 @@
 * 🔥 Golang contributor
 
 ## My CV
-https://semyon.tech/CV.pdf
+* [My full CV](https://semyon.tech/CV.pdf)
 
 ## Some statistics 📈
 
