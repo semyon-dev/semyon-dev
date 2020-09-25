@@ -3,8 +3,8 @@
 * 🇷🇺 Russia, Saint-Petersburg
 * 🚀 19 years old
 * 👨‍💻 Golang & Backend Developer
-* 👨‍🎓 Creator of golang course with 8K+ students on stepik.org
-* 🏆 Winner of 3 hackathons (all as team captain)
+* 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 8K+ students on stepik.org
+* 🏆 Winner of [3 hackathons](https://semyon.tech/#hackathons) (all as team captain)
 * 🔥 Golang contributor
 
 ## My CV
