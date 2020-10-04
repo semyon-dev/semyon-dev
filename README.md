@@ -12,6 +12,6 @@
 
 ## Some statistics 📈
 
-[![Semyon's github stats](https://github-readme-stats.vercel.app/api?username=semyon-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Semyon's github stats](https://github-readme-stats.vercel.app/api?username=semyon-dev&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semyon-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semyon-dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
