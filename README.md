@@ -4,7 +4,7 @@
 * 🚀 19 years old
 * 👨‍💻 Golang & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 9K+ students on stepik.org
-* 🏆 Winner of [3 hackathons](https://semyon.tech/#hackathons) (all as team captain)
+* 🏆 Winner of [4 hackathons](https://semyon.tech/#hackathons) (all as team captain)
 * 🔥 Golang contributor
 
 ## My CV
