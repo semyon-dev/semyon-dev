@@ -7,9 +7,6 @@
 * 🏆 Winner of [4 hackathons](https://semyon.tech/#hackathons) (all as team captain)
 * 🔥 Golang contributor
 
-## My CV
-* [My full CV](https://semyon.tech/CV.pdf)
-
 ## Some statistics 📈
 
 [![Semyon's github stats](https://github-readme-stats.vercel.app/api?username=semyon-dev&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
