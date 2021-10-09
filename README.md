@@ -4,7 +4,7 @@
 * 🚀 20 years old
 * 👨‍💻 Project Manager & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 15K+ students on stepik.org
-* 🏆 Winner of [5 hackathons](https://origin-dev.tech/) (all as team captain)
+* 🏆 Winner of [5+ hackathons](https://origin-dev.tech/) (all as team captain)
 * 🔥 Golang contributor
 
 ## Some statistics 📈
