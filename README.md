@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=semyon-dev) 
 
 * 🇷🇺 Russia, Saint-Petersburg
 * 🚀 20 years old
