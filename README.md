@@ -1,7 +1,7 @@
 ### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=semyon-dev) 
 
 * 🇷🇺 Russia, Saint-Petersburg
-* 🚀 20 years old
+* 🚀 21 years old
 * 👨‍💻 Project Manager & Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 20K+ students on stepik.org
 * 🏆 Winner of [5+ hackathons](https://origin-dev.tech/) (all as team captain)
