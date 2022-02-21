@@ -2,9 +2,10 @@
 
 * 🇷🇺 Russia, Saint-Petersburg
 * 🚀 21 years old
-* 👨‍💻 Project Manager & Backend Developer
+* 👨‍💻 Backend Developer & Team lead
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 20K+ students on stepik.org
-* 🏆 Winner of [5+ hackathons](https://origin-dev.tech/) (all as team captain)
+* 👨‍🎓 Contributor JetBrains Academy [golang track](https://hyperskill.org/tracks/25)
+* 🏆 Winner of [5+ hackathons](https://origin-dev.tech/) (most as team captain)
 * 🔥 Golang contributor
 
 ## Some statistics 📈
