@@ -5,7 +5,7 @@
 * 👨‍💻 Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 20K+ students on stepik.org
 * 👨‍🎓 Contributor JetBrains Academy [golang track](https://hyperskill.org/tracks/25)
-* 🏆 Winner of [5+ hackathons](https://origin-dev.tech/) (most as team captain)
+* 🏆 Winner of 5+ hackathons (most as team captain)
 * 🔥 Golang contributor
 
 ## Some statistics 📈
