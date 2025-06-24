@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-* 🇷🇺 Russia, Saint-Petersburg
 * 🚀 24 years old
 * 👨‍💻 Backend Developer
 * 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 50K+ students on stepik.org
