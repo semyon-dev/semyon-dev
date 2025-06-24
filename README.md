@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 * 🇷🇺 Russia, Saint-Petersburg
-* 🚀 23 years old
+* 🚀 24 years old
 * 👨‍💻 Backend Developer
-* 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 40K+ students on stepik.org
+* 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 50K+ students on stepik.org
 * 👨‍🎓 Contributor JetBrains Academy [golang track](https://hyperskill.org/tracks/25)
 * 🏆 Winner of 5+ hackathons (most as team captain)
 * 🔥 Golang contributor
