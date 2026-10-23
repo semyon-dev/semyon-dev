@@ -1,7 +1,5 @@
-* 👨‍💻 Web3 & Backend Developer
-* 💼[LinkedIn](https://www.linkedin.com/in/semyon-dev/)
-* 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 80K+ students on stepik.org
-* 📝 Contributor JetBrains Academy [golang track](https://hyperskill.org/tracks/25)
+* 👨‍💻 Web3 & Backend Developer  💼[LinkedIn](https://www.linkedin.com/in/semyon-dev/)
+* 👨‍🎓 Creator of [golang course](https://stepik.org/course/54403/) with 80K+ students on stepik.org &  Contributor JetBrains Academy [golang track](https://hyperskill.org/tracks/25)
 * 🏆 Winner of 5+ hackathons
 * 🛠 Golang contributor
 
